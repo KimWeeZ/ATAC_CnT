@@ -1,5 +1,5 @@
 track  Hg_ATAC_AITS
-bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_ATAC_rep1_AITS.sorted.rmDup.minQS.bam.bw
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_ATAC_rep1_AITS.sorted.rmDup.minQS.bam.bigwig
 shortLabel Hg_ATAC_AITS bigwig
 longLabel Hg38 iPSC ATAC from AITS 
 type bigWig
