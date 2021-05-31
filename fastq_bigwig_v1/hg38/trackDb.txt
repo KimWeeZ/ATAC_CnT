@@ -1,0 +1,111 @@
+track  Hg_ATAC_AITS
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_ATAC_rep1_AITS.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_ATAC_AITS bigwig
+longLabel Hg38 iPSC ATAC from AITS 
+type bigWig
+visibility dense
+
+track  Hg_ATAC_AK03N
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_ATAC_rep1_AK03N.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_ATAC_AK03N bigwig
+longLabel Hg38 iPSC ATAC from AK03N 
+type bigWig
+visibility dense
+
+track  Hg_ATAC_mTeSRPlus
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_ATAC_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_ATAC_mTeSRPlus bigwig
+longLabel Hg38 iPSC ATAC from mTESRPlus 
+type bigWig
+visibility dense
+
+track  Hg_ATAC_WTC
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_WTC_ATAC_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_ATAC_WTC bigwig
+longLabel Hg38 iPSC ATAC from WTC 
+type bigWig
+visibility dense
+
+track  Hg_CnTac_AITS
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_CnTac_rep1_AITS.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTac_AITS bigwig
+longLabel Hg38 iPSC CnT from AITS
+type bigWig
+visibility dense
+
+track  Hg_CnTac_AK03N
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_CnTac_rep1_AK03N.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTac_AK03N bigwig
+longLabel Hg38 iPSC CnT from AK03N
+type bigWig
+visibility dense
+
+track  Hg_CnTac_mTeSRPlus
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_CnTac_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTac_mTeSRPlus bigwig
+longLabel Hg38 iPSC CnT from mTeSRPlus
+type bigWig
+visibility dense
+
+track  Hg_CnTac_WTC
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_WTC_CnTac_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTac_WTC bigwig
+longLabel Hg38 iPSC CnT from WTC
+type bigWig
+visibility dense
+
+track  Hg_CnTme_AITS
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_CnTme_rep1_AITS.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTme_AITS bigwig
+longLabel Hg38 iPSC CnT from AITS
+type bigWig
+visibility dense
+
+track  Hg_CnTme_AK03N
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_CnTme_rep1_AK03N.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTme_AK03N bigwig
+longLabel Hg38 iPSC CnT from AK03N
+type bigWig
+visibility dense
+
+track  Hg_CnTme_mTeSRPlus
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_CnTme_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTme_mTeSRPlus bigwig
+longLabel Hg38 iPSC CnT from mTeSRPlus
+type bigWig
+visibility dense
+
+track  Hg_CnTme_WTC
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_WTC_CnTme_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTme_WTC bigwig
+longLabel Hg38 iPSC CnT from WTC
+type bigWig
+visibility dense
+
+track  Hg_CnTno_AITS
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_CnTno_rep1_AITS.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTno_AITS bigwig
+longLabel Hg38 iPSC CnT from AITS
+type bigWig
+visibility dense
+
+track  Hg_CnTno_AK03N
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_CnTno_rep1_AK03N.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTno_AK03N bigwig
+longLabel Hg38 iPSC CnT from AK03N
+type bigWig
+visibility dense
+
+track  Hg_CnTno_mTeSRPlus
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_1390G3_CnTno_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTno_mTeSRPlus bigwig
+longLabel Hg38 iPSC CnT from mTeSRPlus
+type bigWig
+visibility dense
+
+track  Hg_CnTno_WTC
+bigDataUrl https://drive.google.com/drive/folders/1APuhZz4KHangaAbeyybmxHAxgi2yET0G?usp=sharing/Human_WTC_CnTno_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
+shortLabel Hg_CnTno_WTC bigwig
+longLabel Hg38 iPSC CnT from WTC
+type bigWig
+visibility dense
