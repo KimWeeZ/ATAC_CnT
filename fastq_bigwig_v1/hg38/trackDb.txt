@@ -1,109 +1,109 @@
-track  Hg_ATAC_AITS
+track  Hg_ATAC_1390G3_AITS
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_ATAC_rep1_AITS.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_ATAC_AITS bigwig
 longLabel Hg38 iPSC ATAC from AITS 
 type bigWig
 visibility full
 
-track  Hg_ATAC_AK03N
+track  Hg_ATAC_1390G3_AK03N
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_ATAC_rep1_AK03N.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_ATAC_AK03N bigwig
 longLabel Hg38 iPSC ATAC from AK03N 
 type bigWig
 visibility full
 
-track  Hg_ATAC_mTeSRPlus
+track  Hg_ATAC_1390G3_mTeSRPlus
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_ATAC_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_ATAC_mTeSRPlus bigwig
 longLabel Hg38 iPSC ATAC from mTESRPlus 
 type bigWig
 visibility full
 
-track  Hg_ATAC_WTC
+track  Hg_ATAC_WTC_mTeSRPlus
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_WTC_ATAC_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_ATAC_WTC bigwig
 longLabel Hg38 iPSC ATAC from WTC 
 type bigWig
 visibility full
 
-track  Hg_CnTac_AITS
+track  Hg_CnTac1390G3__AITS
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_CnTac_rep1_AITS.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTac_AITS bigwig
 longLabel Hg38 iPSC CnT from AITS
 type bigWig
 visibility full
 
-track  Hg_CnTac_AK03N
+track  Hg_CnTac_1390G3_AK03N
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_CnTac_rep1_AK03N.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTac_AK03N bigwig
 longLabel Hg38 iPSC CnT from AK03N
 type bigWig
 visibility full
 
-track  Hg_CnTac_mTeSRPlus
+track  Hg_CnTac_1390G3_mTeSRPlus
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_CnTac_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTac_mTeSRPlus bigwig
 longLabel Hg38 iPSC CnT from mTeSRPlus
 type bigWig
 visibility full
 
-track  Hg_CnTac_WTC
+track  Hg_CnTac_WTC_mTeSRPlus
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_WTC_CnTac_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTac_WTC bigwig
 longLabel Hg38 iPSC CnT from WTC
 type bigWig
 visibility full
 
-track  Hg_CnTme_AITS
+track  Hg_CnTme_1390G3_AITS
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_CnTme_rep1_AITS.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTme_AITS bigwig
 longLabel Hg38 iPSC CnT from AITS
 type bigWig
 visibility full
 
-track  Hg_CnTme_AK03N
+track  Hg_CnTme_1390G3_AK03N
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_CnTme_rep1_AK03N.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTme_AK03N bigwig
 longLabel Hg38 iPSC CnT from AK03N
 type bigWig
 visibility full
 
-track  Hg_CnTme_mTeSRPlus
+track  Hg_CnTme_1390G3_mTeSRPlus
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_CnTme_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTme_mTeSRPlus bigwig
 longLabel Hg38 iPSC CnT from mTeSRPlus
 type bigWig
 visibility full
 
-track  Hg_CnTme_WTC
+track  Hg_CnTme_WTC_mTeSRPlus
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_WTC_CnTme_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTme_WTC bigwig
 longLabel Hg38 iPSC CnT from WTC
 type bigWig
 visibility full
 
-track  Hg_CnTno_AITS
+track  Hg_CnTno_1390G3_AITS
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_CnTno_rep1_AITS.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTno_AITS bigwig
 longLabel Hg38 iPSC CnT from AITS
 type bigWig
 visibility full
 
-track  Hg_CnTno_AK03N
+track  Hg_CnTno_1390G3_AK03N
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_CnTno_rep1_AK03N.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTno_AK03N bigwig
 longLabel Hg38 iPSC CnT from AK03N
 type bigWig
 visibility full
 
-track  Hg_CnTno_mTeSRPlus
+track  Hg_CnTno_1390G3_mTeSRPlus
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_1390G3_CnTno_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTno_mTeSRPlus bigwig
 longLabel Hg38 iPSC CnT from mTeSRPlus
 type bigWig
 visibility full
 
-track  Hg_CnTno_WTC
+track  Hg_CnTno_WTC_mTeSRPlus
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v1/Human_WTC_CnTno_rep1_mTeSRPlus.sorted.rmDup.minQS.bam.bw
 shortLabel Hg_CnTno_WTC bigwig
 longLabel Hg38 iPSC CnT from WTC
