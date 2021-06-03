@@ -1,5 +1,5 @@
 hub bigwig1_v2
-shortLabel ATAC CnT
+shortLabel ATAC CnT v2
 longLabel ATAC and CnT alignment results
 genomesFile genomes_v2.txt
 email qinweiqztf7@gmail.com
