@@ -83,14 +83,14 @@ type bigWig
 visibility full
 
 track  v3_CnTac_MPRA_11M
-bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/CnT_MPRA_11M_ac_S17.bam.bw
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/CnT_MPRA_11M_ac.sorted.rmDup.bam.bw
 shortLabel v3_CnTac_MPRA_11M
 longLabel CnT from MPRA 11M ac
 type bigWig
 visibility full
 
 track  v3_CnT_IgG_MPRA_11M
-bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/CnT_MPRA_11M_IgG_S19.bam.bw
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/CnT_MPRA_11M_IgG.sorted.rmDup.bam.bw
 shortLabel v3_CnT_IgG_MPRA_11M
 longLabel CnT from MPRA 11M IgG
 type bigWig
