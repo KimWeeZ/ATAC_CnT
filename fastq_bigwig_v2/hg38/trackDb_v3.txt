@@ -21,7 +21,7 @@ visibility full
 
 track  v3_ATAC_WTC_1-2
 bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_WTC_mTeSR_ATAC_rep1-2.sorted.rmDup.bam.bw
-shortLabel v3_ATAC_wTC 
+shortLabel v3_ATAC_WTC 
 longLabel Hg38 iPSC ATAC from mTESRPlus
 type bigWig
 visibility full
