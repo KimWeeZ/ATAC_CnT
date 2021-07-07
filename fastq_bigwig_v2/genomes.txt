@@ -1,0 +1,11 @@
+genome hg38
+trackDb hg38/trackDb.txt
+
+genome panTro6
+trackDb panTro6/trackDb.txt
+
+genome ponAbe3
+trackDb ponAbe3/trackDb.txt
+
+genome macFas5
+trackDb macFas5/trackDb.txt

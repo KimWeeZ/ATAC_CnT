@@ -1,0 +1,5 @@
+hub bigwig1_v3
+shortLabel ATAC CnT v3
+longLabel ATAC and CnT alignment results
+genomesFile genomes_v3.txt
+email qinweiqztf7@gmail.com

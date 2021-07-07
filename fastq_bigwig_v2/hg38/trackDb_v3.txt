@@ -1,0 +1,97 @@
+track  v3_ATAC_1390G3_AI_1-2
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_1390G3_AITS_ATAC_rep1-2.sorted.rmDup.bam.bw
+shortLabel v3_ATAC_AITS
+longLabel Hg38 iPSC ATAC from AITS 
+type bigWig
+visibility full
+
+track  v3_ATAC_1390G3_AK_1-2
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_1390G3_AK03N_ATAC_rep1-2.sorted.rmDup.bam.bw
+shortLabel v3_ATAC_AK03N
+longLabel Hg38 iPSC ATAC from AK03N 
+type bigWig
+visibility full
+
+track  v3_ATAC_1390G3_mTe_1-2
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_1390G3_mTeSR_ATAC_rep1-2.sorted.rmDup.bam.bw
+shortLabel v3_ATAC_mTeSRPlus
+longLabel Hg38 iPSC ATAC from mTESRPlus 
+type bigWig
+visibility full
+
+track  v3_ATAC_WTC_1-2
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_WTC_mTeSR_ATAC_rep1-2.sorted.rmDup.bam.bw
+shortLabel v3_ATAC_wTC 
+longLabel Hg38 iPSC ATAC from mTESRPlus
+type bigWig
+visibility full
+
+track  v3_CnTac_WTC_AB
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_WTC_AB_CnTac.sorted.rmDup.bam.bw
+shortLabel v3_CnTac_AB
+longLabel Hg38 iPSC CnT from WTC
+type bigWig
+visibility full
+
+track  v3_CnTac_WTC_ABp2
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_WTC_ABplus2_CnTac.sorted.rmDup.bam.bw
+shortLabel v3_CnTac_ABp2
+longLabel Hg38 iPSC CnT from WTC
+type bigWig
+visibility full
+
+track  v3_CnTac_WTC_AM
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_WTC_AM_CnTac.sorted.rmDup.bam.bw
+shortLabel v3_CnTac_AM
+longLabel Hg38 iPSC CnT from WTC
+type bigWig
+visibility full
+
+track  v3_CnTac_WTC_AMp2
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_WTC_AMplus2_CnTac.sorted.rmDup.bam.bw
+shortLabel v3_CnTac_AMp2
+longLabel Hg38 iPSC CnT from WTC
+type bigWig
+visibility full
+
+track  v3_CnTac_WTC_MI
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_WTC_MI_CnTac.sorted.rmDup.bam.bw
+shortLabel v3_CnTac_MI
+longLabel Hg38 iPSC CnT from WTC
+type bigWig
+visibility full
+
+track  v3_CnTac_WTC_MIp2
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/Human_WTC_MIplus2_CnTac.sorted.rmDup.bam.bw
+shortLabel v3_CnTac_MIp2
+longLabel Hg38 iPSC CnT from WTC
+type bigWig
+visibility full
+
+track  v3_CnTac_MPRA_1M
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/CnT_MPRA_1M_ac_S16.bam.bw
+shortLabel v3_CnTac_MPRA_1M
+longLabel CnT from MPRA 1M ac
+type bigWig
+visibility full
+
+track  v3_CnT_IgG_MPRA_1M
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/CnT_MPRA_1M_IgG_S18.bam.bw
+shortLabel v3_CnT_IgG_MPRA_1M
+longLabel CnT from MPRA 1M IgG
+type bigWig
+visibility full
+
+track  v3_CnTac_MPRA_11M
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/CnT_MPRA_11M_ac_S17.bam.bw
+shortLabel v3_CnTac_MPRA_11M
+longLabel CnT from MPRA 11M ac
+type bigWig
+visibility full
+
+track  v3_CnT_IgG_MPRA_11M
+bigDataUrl https://github.com/KimWeeZ/ATAC_CnT/raw/main/fastq_bigwig_v2/CnT_MPRA_11M_IgG_S19.bam.bw
+shortLabel v3_CnT_IgG_MPRA_11M
+longLabel CnT from MPRA 11M IgG
+type bigWig
+visibility full
